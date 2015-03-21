@@ -1,6 +1,6 @@
 # iojs + libvips
 # Adapted from https://github.com/marcbachmann/dockerfile-libvips
-FROM iojs:1.5.1
+FROM iojs:1.6.1
 
 # Install dependencies
 RUN \
